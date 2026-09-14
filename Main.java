@@ -67,9 +67,7 @@ public class Main {
         }
 
         if (cliente.getQuantidadeComprada() >= 2) {
-            System.out.println("\n=================================");
             System.out.println("        RESUMO DA COMPRA");
-            System.out.println("=================================");
             System.out.println("Cliente: " + cliente.getNome() + " | CPF: " + cliente.getCpf());
             System.out.println();
             
