@@ -11,7 +11,7 @@ public class Main {
         Scanner entrada = new Scanner(System.in);
         
         Cliente cliente = new Cliente("Victor Honorato", "123.456.789-00");
-        float matricula = 1234; 
+        float matricula = 9877; 
 
         System.out.println("Bem-vindo à PC Mania!");
 
